@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/react_upload/static/css/main.31502bae.chunk.css",
+    "main.js": "/react_upload/static/js/main.763069b5.chunk.js",
+    "main.js.map": "/react_upload/static/js/main.763069b5.chunk.js.map",
+    "runtime-main.js": "/react_upload/static/js/runtime-main.d94ff198.js",
+    "runtime-main.js.map": "/react_upload/static/js/runtime-main.d94ff198.js.map",
+    "static/css/2.808cd461.chunk.css": "/react_upload/static/css/2.808cd461.chunk.css",
+    "static/js/2.7dec119e.chunk.js": "/react_upload/static/js/2.7dec119e.chunk.js",
+    "static/js/2.7dec119e.chunk.js.map": "/react_upload/static/js/2.7dec119e.chunk.js.map",
+    "index.html": "/react_upload/index.html",
+    "precache-manifest.08cb19b08975d853ce29fe57044625d4.js": "/react_upload/precache-manifest.08cb19b08975d853ce29fe57044625d4.js",
+    "service-worker.js": "/react_upload/service-worker.js",
+    "static/css/2.808cd461.chunk.css.map": "/react_upload/static/css/2.808cd461.chunk.css.map",
+    "static/css/main.31502bae.chunk.css.map": "/react_upload/static/css/main.31502bae.chunk.css.map",
+    "static/js/2.7dec119e.chunk.js.LICENSE.txt": "/react_upload/static/js/2.7dec119e.chunk.js.LICENSE.txt",
+    "static/media/01.png": "/react_upload/static/media/01.f572f0ca.png",
+    "static/media/011.png": "/react_upload/static/media/011.d7525517.png",
+    "static/media/03.png": "/react_upload/static/media/03.763a93be.png",
+    "static/media/style.css": "/react_upload/static/media/13.a126ec2c.png",
+    "static/media/05.jpg": "/react_upload/static/media/05.44b1d368.jpg",
+    "static/media/06.jpg": "/react_upload/static/media/06.c3fe57d0.jpg",
+    "static/media/07.png": "/react_upload/static/media/07.fdd9f3ac.png",
+    "static/media/08.png": "/react_upload/static/media/08.32d111e1.png",
+    "static/media/16.png": "/react_upload/static/media/16.f2b96a0f.png",
+    "static/media/flaticon.css": "/react_upload/static/media/Flaticon.dc5556fe.ttf",
+    "static/media/font-awesome.min.css": "/react_upload/static/media/fa-solid-900.d4e4b058.svg",
+    "static/media/newlogo.png": "/react_upload/static/media/newlogo.9d98d061.png",
+    "static/media/play.svg": "/react_upload/static/media/play.8f742c21.svg",
+    "static/media/slick-theme.css": "/react_upload/static/media/slick.f97e3bbf.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d94ff198.js",
+    "static/css/2.808cd461.chunk.css",
+    "static/js/2.7dec119e.chunk.js",
+    "static/css/main.31502bae.chunk.css",
+    "static/js/main.763069b5.chunk.js"
+  ]
+}
